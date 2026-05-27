@@ -1,7 +1,7 @@
 {
-  "name": "Template Extensions (0.9)",
+  "name": "MangaK",
   "private": true,
-  "description": "Paperback extensions designed as templates to help developers get started quickly. Maintained by Inkdex.",
+  "description": "Paperback extension for MangaK.io — manga, manhwa, and manhua.",
   "type": "module",
   "scripts": {
     "lint": "oxlint --type-aware --fix",
