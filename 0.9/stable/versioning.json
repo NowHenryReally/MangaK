@@ -1,12 +1,12 @@
 {
-  "buildTime": "2026-05-27T01:43:33.777Z",
+  "buildTime": "2026-05-27T01:46:33.870Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.74",
     "types": "1.0.0-alpha.74"
   },
   "repository": {
-    "name": "Template Extensions (0.9)",
-    "description": "Paperback extensions designed as templates to help developers get started quickly. Maintained by Inkdex."
+    "name": "MangaK",
+    "description": "Paperback extension for MangaK.io � manga, manhwa, and manhua."
   },
   "sources": [
     {
