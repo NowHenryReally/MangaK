@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-05-27T01:38:03.060Z",
+  "buildTime": "2026-05-27T01:43:33.777Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.74",
     "types": "1.0.0-alpha.74"
@@ -10,19 +10,18 @@
   },
   "sources": [
     {
-      "name": "Content Template",
-      "description": "Template that shows the functionality of content providing extensions.",
-      "version": "1.0.0-alpha.3",
+      "name": "MangaK",
+      "description": "Extension for MangaK.io — manga, manhwa, and manhua.",
+      "version": "1.0.0",
       "icon": "icon.png",
       "language": "en",
-      "contentRating": "SAFE",
-      "capabilities": 101,
+      "contentRating": "MATURE",
+      "capabilities": 69,
       "badges": [],
       "developers": [
         {
-          "name": "Celarye",
-          "website": "https://celarye.dev",
-          "github": "https://github.com/Celarye"
+          "name": "YourName",
+          "github": "https://github.com/NowHenryReally"
         }
       ],
       "id": "MangaK"
